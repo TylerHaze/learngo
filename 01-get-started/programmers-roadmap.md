@@ -38,7 +38,7 @@ Enjoy!
   * The lectures after "What is a Predeclared Type?" and to the end of the section.
   * The following lectures under "Understand Untyped Constants"
     * Learn the rules of constants
-    * Recap: Constants
+    * Recap: Constants  
   3/26/2020
     * How untyped constants work under the hood?
     * What is a Default Type?
