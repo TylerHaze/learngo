@@ -39,6 +39,7 @@ Enjoy!
   * The following lectures under "Understand Untyped Constants"
     * Learn the rules of constants
     * Recap: Constants
+  3/26/2020
     * How untyped constants work under the hood?
     * What is a Default Type?
     * Example: time.Duration
