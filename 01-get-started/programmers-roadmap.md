@@ -31,7 +31,8 @@ Enjoy!
   * Greet people using os.Args
   * The lectures under "Print Formatted Output Using Printf".
   * Convert Celsius to Fahrenheit
-  * Convert Feet to Meters
+  * Convert Feet to Meters  
+  3/25/2020
   * What is a Raw String Literal?
   * How to get the length of a string?
   * The lectures after "What is a Predeclared Type?" and to the end of the section.
